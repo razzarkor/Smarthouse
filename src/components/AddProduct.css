@@ -1,0 +1,15 @@
+.productDropdown{
+    width: 178px;
+    height: 25px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(83, 196, 46);
+}
+
+.addproductBtn{
+    width: 70px;
+    height: 25px;
+    border: 1px solid rgb(8, 145, 219);
+    background-color: aqua;
+    font-weight: bold;
+    color:rgb(24, 121, 172) ;
+}

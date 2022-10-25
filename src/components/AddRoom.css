@@ -1,0 +1,42 @@
+.dropdown{
+    width: 178px;
+    height: 25px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(83, 196, 46);
+}
+
+.nameInput{
+    width: 170px;
+    height: 19px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(83, 196, 46);
+}
+
+.colorTitle{
+    font-size: 13px;
+    padding-top: 3.9px;
+    padding-bottom: 1.77px;
+    padding-left: 1px;
+    border: 1px solid rgb(83, 196, 46);
+    border-right: 0;
+}
+
+.colorInput{
+    width: 100px;
+    height: 25px;
+    margin-bottom: 15px;
+    border: 1px solid rgb(83, 196, 46);
+    border-left: 0;
+}
+
+.createBtn{
+    width: 70px;
+    height: 25px;
+    border: 1px solid rgb(8, 145, 219);
+    background-color: aqua;
+    font-weight: bold;
+    color:rgb(24, 121, 172) ;
+
+    position: relative;
+    right: 75px
+}

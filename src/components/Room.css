@@ -1,0 +1,42 @@
+.roomInfoDiv{
+    width: 250px;
+    display: inline-flex;
+    flex-direction: column;
+    align-items: flex-start;
+    position: relative;
+    right: 130px;
+    margin-bottom: 40px;
+}
+
+p{
+    margin: 0;
+}
+
+.productDiv{
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+    left: 45%;
+    bottom: 75px;
+
+}
+
+.product{
+    width: 125px;
+    margin-bottom: 10px;
+    border: 1px solid blue
+}
+
+.addProductBtn{
+    width: 100px;
+    height: 25px;
+    border: 1px solid rgb(8, 145, 219);
+    background-color: aqua;
+    font-weight: bold;
+    color:rgb(24, 121, 172) ;
+    position: relative;
+    right:200px;
+
+    margin-bottom: 20px;
+}

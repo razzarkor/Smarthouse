@@ -1,0 +1,10 @@
+.homeBtn{
+    width: 70px;
+    height: 25px;
+    border: 1px solid rgb(8, 145, 219);
+    background-color: aqua;
+    font-weight: bold;
+    color:rgb(24, 121, 172) ;
+    position: fixed;
+    top: 360px;
+}
